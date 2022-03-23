@@ -50,6 +50,9 @@ Finally, in the field of scientific research, I will read more literature, activ
 
 
 ### Why you choose this research direction?（为什么选择这个研究方向？）
+In my undergraduate state, I once took a course, called Data Mining, which involved many methods of processing data. In this course, I found that I had a strong interesting in artificial intelligence.
+In my opinion, I think, with the advent of the digital age, the number, types of data are increasing, and AI technology can extract more useful information from these data. At the same time, I think AI will effectively improve productivity and people's lives in the future.
+However, there are still many problems that need to be solved, for example, AI algorithms is too complex to be friendly to the average user, and it causes that a lot of computing resources are consumed. And the method has shortcomings of lower understandability in some field, such as automatic drive.
 
 ### What is the Operating System?（什么是操作系统？）
 操作系统是用于控制和管理计算机系统的硬件和软件资源，并合理地组织调度计算机工作和资源分配，以提供给其他用户和其他软件方便的接口和环境的一款软件；
